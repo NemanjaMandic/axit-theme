@@ -28,6 +28,10 @@
     -webkit-backdrop-filter: saturate(180%) blur(20px);
     backdrop-filter: saturate(180%) blur(20px);
   }
+
+  .footer{
+      background-color: #000000;
+  }
   .site-header a {
     color: #999;
     transition: ease-in-out color .15s;
